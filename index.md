@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My Introduction
 
-You can use the [editor on GitHub](https://github.com/suryawanshishreyas/Hello-World-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lets start with my name because that's the basic thing everyone tells us in the introduction, right? Sorry for making it long but I like it this way.
+Well people call me with different names but Shreyas is my actual name which ends with Suryawanshi. Its a tradition to write a whole name Shreyas Suryawanshi, right?
+You will find out more about me as you scroll down below:.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suryawanshishreyas/Hello-World-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Once a legend said that Education is a passport to future and I respect that. As I'm a tech savvy guy myself who day dream watching Elon Musk's vision regarding future. 
+Lets just switch around a little bit in the past as the heading is "Education". 
+I have completed my graduation in Electronics And Telecommunications Field in 2018. Those 4 years in Vishwakarma Institute Of Technology,Pune made me stood tough and competitive in the longer process to find jobs and opportunities. And tought me to be a little sarcastic as well.
